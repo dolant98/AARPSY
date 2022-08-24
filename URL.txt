@@ -66,4 +66,12 @@
 “https://open.spotify.com/playlist/37i9dQZF1DX6FdIcKzUp2r?si=92e1431984a44999”,
 “https://open.spotify.com/playlist/0dyJ1zjZYI7jcoNfzvGxBi?si=07e5e3657e1b40ed”,
 “https://open.spotify.com/playlist/3u2CItaRbitsCH0kbDu1dK?si=5ea7196e71a14868”,
-“https://open.spotify.com/playlist/4E39e6JqgMv6OOrqUH5aoR?si=b1951a5769934e41”
+“https://open.spotify.com/playlist/4E39e6JqgMv6OOrqUH5aoR?si=b1951a5769934e41”,
+“https://open.spotify.com/playlist/6h3xSNa0tMuXnuMWtQA79G?si=e24dedda8b0e44a7”,
+“https://open.spotify.com/playlist/37i9dQZF1DZ06evO1jUpX2?si=c856e89224484c32”,
+“https://open.spotify.com/playlist/3JT97xQRia5YlxO23eGZ0M?si=68b8179cb871472f”,
+“https://open.spotify.com/playlist/76ULFJoQA873vD8DBzoyNn?si=1a2cfaacbbbc4ece”,
+“https://open.spotify.com/playlist/37i9dQZF1DZ06evO0CM2Xv?si=cbbc50339ca247f2”,
+“https://open.spotify.com/playlist/37i9dQZF1DZ06evO0W752X?si=68c49eb0380e43a9”,
+“https://open.spotify.com/playlist/37i9dQZF1DX3YSNrkBY3IB?si=d7c46ea1c3694b68”,
+“https://open.spotify.com/playlist/0vFMssrqYCm7E5UGVqqobu?si=e8b0cb53bd154ca6”,
