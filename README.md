@@ -15,3 +15,10 @@ I took inspiration, modeling tool suggestions, and, in some cases, actual code f
 - scikit-learn.org - KMeans and Silhouette Score, RandomForest
 - Towards Data Science - Spotipy API extraction, K-Prototype Use Cases
 - pandas.pydata.org - Changing series to an array, Referencing indeces, pd.get_dummies
+
+### Process and Findings 
+
+My goal was to develop a content based recommendation system using audio and genre features from Spotify's API.  
+
+I used KMeans as well as Kmode clustering using the audio and genre features.  Adding the genre did not create any more specificity to classification.  As a result, I focused on identifying feature importance with Random Forest, and calculated the cosine similarity between vectors: (1) containing audio features of favorite songs and (2) the other a large dataset of Spotify audio tracks (170K).  
+
